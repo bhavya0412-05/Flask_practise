@@ -1,0 +1,3 @@
+-> pip install -r requirements.txt  to install all the dependenicies
+-> import sql data from schema.sql to a new database named flask_tutorial
+-> Enter your sql password in .env file to access the database
